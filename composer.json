@@ -3,7 +3,7 @@
     "description": "Sign files and verify signatures using XAdES",
     "type": "library",
     "require": {
-        "php": "^8.1",
+        "php": "^7.4|^8.1",
         "ext-dom": "*",
         "ext-openssl": "*",
         "ext-json": "*",
